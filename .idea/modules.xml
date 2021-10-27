@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ch01-first/ch01-first/ch01-first.iml" filepath="$PROJECT_DIR$/ch01-first/ch01-first/ch01-first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch01-first/ch01-first.iml" filepath="$PROJECT_DIR$/ch01-first/ch01-first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02-di-xml/ch02-di-xml.iml" filepath="$PROJECT_DIR$/ch02-di-xml/ch02-di-xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03-di-anno/ch03-di-anno.iml" filepath="$PROJECT_DIR$/ch03-di-anno/ch03-di-anno.iml" />
     </modules>
   </component>
 </project>
